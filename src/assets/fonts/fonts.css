@@ -1,0 +1,8 @@
+/* src/assets/fonts.css */
+@font-face {
+  font-family: "eurostile"; /* Change to your font name */
+  src: url("./eurostile.TTF") format("TTF"),
+    /* Add your font files here */ url("./EuroStyle\ Normal.ttf") format("TTF");
+  font-weight: normal; /* Adjust as necessary */
+  font-style: normal; /* Adjust as necessary */
+}
