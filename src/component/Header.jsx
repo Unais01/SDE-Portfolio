@@ -18,7 +18,7 @@ const Header = () => {
           </a> */}
           <a
           target="_blank"
-            href="https://drive.google.com/file/d/1paSowhMT6_bgniD4_ipPzhrL0huCuyNK/view?usp=sharing"
+            href="https://drive.google.com/file/d/1O7H8rs097-BYRjT3Co2WDwrEcZ1P0q5t/view?usp=drive_link"
             className="px-3 md:px-5 text-xl md:text-xl  py-1 md:py-2 border-[1px] md:border-[3px] border-primaryColor text-primaryColor rounded-full hover:bg-primaryColor hover:text-white transition duration-300 ease-in-out tracking-wider"
           >
             RESUME
